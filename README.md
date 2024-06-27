@@ -1,7 +1,5 @@
 ## Home Service App
 
-First, run the development server:
-
 ![image](https://github.com/SharvariMore/Home-Service-App/assets/83008601/1bd58717-e95e-44c1-a827-6130c3fed8a1)
 
 ![image](https://github.com/SharvariMore/Home-Service-App/assets/83008601/157d6db8-abcc-4746-afa5-c5be7d97b205)
